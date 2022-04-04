@@ -1,2 +1,6 @@
 # Design-Architecture
-training project
+###training project technologies used:
+-HTML,CSS
+-jquery
+
+
